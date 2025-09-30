@@ -1,5 +1,5 @@
 ﻿@page
-@model Barlangok.BarlangokTelepulesenkentModel
+@model Barlangok.Pages.BarlangokTelepulesenkentModel
 
 @{
     ViewData["Title"] = "JeloltBarlangonkent";
@@ -52,16 +52,22 @@
         {
             <tr>
                 <td>
-                    @Html.DisplayFor(modelItem => item.Kerulet)
-                </td>
-                <td>
-                    @Html.DisplayFor(modelItem => item.Szavazat)
-                </td>
-                <td>
                     @Html.DisplayFor(modelItem => item.Nev)
                 </td>
                 <td>
-                    @Html.DisplayFor(modelItem => item.Part)
+                    @Html.DisplayFor(modelItem => item.Hossz)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Kiterjedes)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Melyseg)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Magassag)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Telepules)
                 </td>
                 <td>
                     <a asp-page="./Edit" asp-route-id="@item.Id">Edit</a> |

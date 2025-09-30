@@ -23,7 +23,7 @@ namespace Barlangok.Pages
 
 
         [BindProperty(SupportsGet = true)]
-        public int KivalasztottBarlang { get; set; }
+        public string KivalasztottBarlang { get; set; }
 
         public IList<string> Telepulesek { get; set; }
         public IList<Barlang> Nevek { get; set; } = default!;
@@ -33,7 +33,7 @@ namespace Barlangok.Pages
         public async Task OnGetAsync()
         {
             Telepulesek = _context.Barlangok.Select(x => x.Telepules).Distinct().OrderBy(x => x).ToList();
-            if (KivalasztottBarlang == 0)
+            if (KivalasztottBarlang == "")
                 Nevek = await _context.Barlangok.ToListAsync();
             else
                 Nevek = _context.Barlangok.Where(x => x.Nev == KivalasztottBarlang).ToList();

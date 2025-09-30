@@ -11,6 +11,10 @@
       "RelativeMoniker": "D:0:0:{36BE8A4B-D272-422E-95ED-FCADF0DA5A63}|Barlangok\\Barlangok.csproj|solutionrelative:barlangok\\pages\\barlangoktelepulesenkent.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{36BE8A4B-D272-422E-95ED-FCADF0DA5A63}|Barlangok\\Barlangok.csproj|c:\\users\\szakacs.mate\\source\\repos\\barlangos\\barlangok\\barlangok\\models\\barlang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36BE8A4B-D272-422E-95ED-FCADF0DA5A63}|Barlangok\\Barlangok.csproj|solutionrelative:barlangok\\models\\barlang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{36BE8A4B-D272-422E-95ED-FCADF0DA5A63}|Barlangok\\Barlangok.csproj|c:\\users\\szakacs.mate\\source\\repos\\barlangos\\barlangok\\barlangok\\data\\barlangdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{36BE8A4B-D272-422E-95ED-FCADF0DA5A63}|Barlangok\\Barlangok.csproj|solutionrelative:barlangok\\data\\barlangdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -114,8 +118,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Barlang.cs",
+              "DocumentMoniker": "C:\\Users\\szakacs.mate\\source\\repos\\barlangos\\Barlangok\\Barlangok\\Models\\Barlang.cs",
+              "RelativeDocumentMoniker": "Barlangok\\Models\\Barlang.cs",
+              "ToolTip": "C:\\Users\\szakacs.mate\\source\\repos\\barlangos\\Barlangok\\Barlangok\\Models\\Barlang.cs",
+              "RelativeToolTip": "Barlangok\\Models\\Barlang.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T07:28:18.631Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -124,7 +140,7 @@
               "RelativeDocumentMoniker": "Barlangok\\Pages\\BarlangokTelepulesenkent.cshtml.cs",
               "ToolTip": "C:\\Users\\szakacs.mate\\source\\repos\\barlangos\\Barlangok\\Barlangok\\Pages\\BarlangokTelepulesenkent.cshtml.cs",
               "RelativeToolTip": "Barlangok\\Pages\\BarlangokTelepulesenkent.cshtml.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAWwCYAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-30T07:05:27.605Z",
               "EditorCaption": ""
@@ -137,14 +153,14 @@
               "RelativeDocumentMoniker": "Barlangok\\Pages\\BarlangokTelepulesenkent.cshtml",
               "ToolTip": "C:\\Users\\szakacs.mate\\source\\repos\\barlangos\\Barlangok\\Barlangok\\Pages\\BarlangokTelepulesenkent.cshtml",
               "RelativeToolTip": "Barlangok\\Pages\\BarlangokTelepulesenkent.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAADQAAAAAAAAAAAAcwEUAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-09-30T07:05:27.448Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Index.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\szakacs.mate\\source\\repos\\barlangos\\Barlangok\\Barlangok\\Pages\\Index.cshtml.cs",
               "RelativeDocumentMoniker": "Barlangok\\Pages\\Index.cshtml.cs",
@@ -156,7 +172,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\szakacs.mate\\source\\repos\\barlangos\\Barlangok\\Barlangok\\Pages\\Index.cshtml",
               "RelativeDocumentMoniker": "Barlangok\\Pages\\Index.cshtml",
@@ -164,12 +180,11 @@
               "RelativeToolTip": "Barlangok\\Pages\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-30T07:03:04.451Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-30T07:03:04.451Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "Delete.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\szakacs.mate\\source\\repos\\barlangos\\Barlangok\\Barlangok\\Pages\\Delete.cshtml.cs",
               "RelativeDocumentMoniker": "Barlangok\\Pages\\Delete.cshtml.cs",
@@ -181,7 +196,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\szakacs.mate\\source\\repos\\barlangos\\Barlangok\\Barlangok\\Pages\\Delete.cshtml",
               "RelativeDocumentMoniker": "Barlangok\\Pages\\Delete.cshtml",
@@ -193,7 +208,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "BarlangDBContext.cs",
               "DocumentMoniker": "C:\\Users\\szakacs.mate\\source\\repos\\barlangos\\Barlangok\\Barlangok\\Data\\BarlangDBContext.cs",
               "RelativeDocumentMoniker": "Barlangok\\Data\\BarlangDBContext.cs",
@@ -201,12 +216,11 @@
               "RelativeToolTip": "Barlangok\\Data\\BarlangDBContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-30T06:49:39.384Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-30T06:49:39.384Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Error.cshtml",
               "DocumentMoniker": "C:\\Users\\szakacs.mate\\source\\repos\\barlangos\\Barlangok\\Barlangok\\Pages\\Error.cshtml",
               "RelativeDocumentMoniker": "Barlangok\\Pages\\Error.cshtml",
@@ -218,7 +232,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "C:\\Users\\szakacs.mate\\source\\repos\\barlangos\\Barlangok\\Barlangok\\Pages\\Privacy.cshtml",
               "RelativeDocumentMoniker": "Barlangok\\Pages\\Privacy.cshtml",
@@ -230,7 +244,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Details.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\szakacs.mate\\source\\repos\\barlangos\\Barlangok\\Barlangok\\Pages\\Details.cshtml.cs",
               "RelativeDocumentMoniker": "Barlangok\\Pages\\Details.cshtml.cs",
@@ -242,7 +256,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\szakacs.mate\\source\\repos\\barlangos\\Barlangok\\Barlangok\\Pages\\Details.cshtml",
               "RelativeDocumentMoniker": "Barlangok\\Pages\\Details.cshtml",
@@ -254,7 +268,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\szakacs.mate\\source\\repos\\barlangos\\Barlangok\\Barlangok\\Pages\\Edit.cshtml",
               "RelativeDocumentMoniker": "Barlangok\\Pages\\Edit.cshtml",
@@ -266,7 +280,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\szakacs.mate\\source\\repos\\barlangos\\Barlangok\\Barlangok\\Pages\\Create.cshtml",
               "RelativeDocumentMoniker": "Barlangok\\Pages\\Create.cshtml",
@@ -278,7 +292,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "Edit.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\szakacs.mate\\source\\repos\\barlangos\\Barlangok\\Barlangok\\Pages\\Edit.cshtml.cs",
               "RelativeDocumentMoniker": "Barlangok\\Pages\\Edit.cshtml.cs",
@@ -290,7 +304,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "Create.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\szakacs.mate\\source\\repos\\barlangos\\Barlangok\\Barlangok\\Pages\\Create.cshtml.cs",
               "RelativeDocumentMoniker": "Barlangok\\Pages\\Create.cshtml.cs",
@@ -302,7 +316,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "Index.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\szakacs.mate\\source\\repos\\barlangos\\Barlangok\\Barlangok\\Pages\\Shared\\Index.cshtml.cs",
               "RelativeDocumentMoniker": "Barlangok\\Pages\\Shared\\Index.cshtml.cs",
@@ -314,7 +328,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\szakacs.mate\\source\\repos\\barlangos\\Barlangok\\Barlangok\\Pages\\Shared\\Index.cshtml",
               "RelativeDocumentMoniker": "Barlangok\\Pages\\Shared\\Index.cshtml",
@@ -326,7 +340,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "Delete.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\szakacs.mate\\source\\repos\\barlangos\\Barlangok\\Barlangok\\Pages\\Shared\\Delete.cshtml.cs",
               "RelativeDocumentMoniker": "Barlangok\\Pages\\Shared\\Delete.cshtml.cs",
@@ -338,7 +352,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\szakacs.mate\\source\\repos\\barlangos\\Barlangok\\Barlangok\\Pages\\Shared\\Delete.cshtml",
               "RelativeDocumentMoniker": "Barlangok\\Pages\\Shared\\Delete.cshtml",
@@ -350,7 +364,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\szakacs.mate\\source\\repos\\barlangos\\Barlangok\\Barlangok\\Pages\\Shared\\Edit.cshtml",
               "RelativeDocumentMoniker": "Barlangok\\Pages\\Shared\\Edit.cshtml",
@@ -362,7 +376,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "Details.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\szakacs.mate\\source\\repos\\barlangos\\Barlangok\\Barlangok\\Pages\\Shared\\Details.cshtml.cs",
               "RelativeDocumentMoniker": "Barlangok\\Pages\\Shared\\Details.cshtml.cs",
@@ -374,7 +388,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\szakacs.mate\\source\\repos\\barlangos\\Barlangok\\Barlangok\\Pages\\Shared\\Details.cshtml",
               "RelativeDocumentMoniker": "Barlangok\\Pages\\Shared\\Details.cshtml",
@@ -386,7 +400,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "Edit.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\szakacs.mate\\source\\repos\\barlangos\\Barlangok\\Barlangok\\Pages\\Shared\\Edit.cshtml.cs",
               "RelativeDocumentMoniker": "Barlangok\\Pages\\Shared\\Edit.cshtml.cs",
@@ -398,7 +412,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "Create.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\szakacs.mate\\source\\repos\\barlangos\\Barlangok\\Barlangok\\Pages\\Shared\\Create.cshtml.cs",
               "RelativeDocumentMoniker": "Barlangok\\Pages\\Shared\\Create.cshtml.cs",
@@ -410,7 +424,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\szakacs.mate\\source\\repos\\barlangos\\Barlangok\\Barlangok\\Pages\\Shared\\Create.cshtml",
               "RelativeDocumentMoniker": "Barlangok\\Pages\\Shared\\Create.cshtml",
@@ -422,7 +436,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\szakacs.mate\\source\\repos\\barlangos\\Barlangok\\Barlangok\\Program.cs",
               "RelativeDocumentMoniker": "Barlangok\\Program.cs",
