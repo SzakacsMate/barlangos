@@ -1,0 +1,74 @@
+﻿@page
+@model Barlangok.BarlangokTelepulesenkentModel
+
+@{
+    ViewData["Title"] = "JeloltBarlangonkent";
+}
+
+<h1>JeloltBarlangonkent</h1>
+
+<p>
+    <a asp-page="Create">Create New</a>
+</p>
+<p>
+    <form method="get">
+        <select asp-for="@Model.KivalasztottBarlang">
+            <option value="0">--- Válassz egy barlangot ---</option>
+            @foreach (var k in Model.Telepulesek)
+            {
+                <option value="@k">@k</option>
+            }
+        </select>
+        <input type="submit" value="Szűrés" />
+    </form>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Nevek[0].Nev)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Nevek[0].Hossz)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Nevek[0].Kiterjedes)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Nevek[0].Melyseg)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Nevek[0].Magassag)
+
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Nevek[0].Telepules)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Nevek)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Kerulet)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Szavazat)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Nev)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Part)
+                </td>
+                <td>
+                    <a asp-page="./Edit" asp-route-id="@item.Id">Edit</a> |
+                    <a asp-page="./Details" asp-route-id="@item.Id">Details</a> |
+                    <a asp-page="./Delete" asp-route-id="@item.Id">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
