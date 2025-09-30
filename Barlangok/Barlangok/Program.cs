@@ -1,3 +1,5 @@
+using Barlangok.Data;
+using Microsoft.EntityFrameworkCore;
 namespace Barlangok
 {
     public class Program
@@ -8,7 +10,8 @@ namespace Barlangok
 
             // Add services to the container.
             builder.Services.AddRazorPages();
-
+            builder.Services.AddDbContext<BarlangDBContext>(
+            options => options.UseSqlite(builder.Configuration.GetConnectionString("BarlangKapcsolat")));
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.
