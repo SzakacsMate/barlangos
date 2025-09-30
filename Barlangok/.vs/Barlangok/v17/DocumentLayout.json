@@ -3,6 +3,54 @@
   "WorkspaceRootPath": "C:\\Users\\szakacs.mate\\source\\repos\\barlangos\\Barlangok\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{36BE8A4B-D272-422E-95ED-FCADF0DA5A63}|Barlangok\\Barlangok.csproj|c:\\users\\szakacs.mate\\source\\repos\\barlangos\\barlangok\\barlangok\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{36BE8A4B-D272-422E-95ED-FCADF0DA5A63}|Barlangok\\Barlangok.csproj|solutionrelative:barlangok\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36BE8A4B-D272-422E-95ED-FCADF0DA5A63}|Barlangok\\Barlangok.csproj|c:\\users\\szakacs.mate\\source\\repos\\barlangos\\barlangok\\barlangok\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{36BE8A4B-D272-422E-95ED-FCADF0DA5A63}|Barlangok\\Barlangok.csproj|solutionrelative:barlangok\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36BE8A4B-D272-422E-95ED-FCADF0DA5A63}|Barlangok\\Barlangok.csproj|c:\\users\\szakacs.mate\\source\\repos\\barlangos\\barlangok\\barlangok\\pages\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{36BE8A4B-D272-422E-95ED-FCADF0DA5A63}|Barlangok\\Barlangok.csproj|solutionrelative:barlangok\\pages\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36BE8A4B-D272-422E-95ED-FCADF0DA5A63}|Barlangok\\Barlangok.csproj|c:\\users\\szakacs.mate\\source\\repos\\barlangos\\barlangok\\barlangok\\pages\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{36BE8A4B-D272-422E-95ED-FCADF0DA5A63}|Barlangok\\Barlangok.csproj|solutionrelative:barlangok\\pages\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36BE8A4B-D272-422E-95ED-FCADF0DA5A63}|Barlangok\\Barlangok.csproj|c:\\users\\szakacs.mate\\source\\repos\\barlangos\\barlangok\\barlangok\\pages\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{36BE8A4B-D272-422E-95ED-FCADF0DA5A63}|Barlangok\\Barlangok.csproj|solutionrelative:barlangok\\pages\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36BE8A4B-D272-422E-95ED-FCADF0DA5A63}|Barlangok\\Barlangok.csproj|c:\\users\\szakacs.mate\\source\\repos\\barlangos\\barlangok\\barlangok\\pages\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{36BE8A4B-D272-422E-95ED-FCADF0DA5A63}|Barlangok\\Barlangok.csproj|solutionrelative:barlangok\\pages\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36BE8A4B-D272-422E-95ED-FCADF0DA5A63}|Barlangok\\Barlangok.csproj|c:\\users\\szakacs.mate\\source\\repos\\barlangos\\barlangok\\barlangok\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{36BE8A4B-D272-422E-95ED-FCADF0DA5A63}|Barlangok\\Barlangok.csproj|solutionrelative:barlangok\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36BE8A4B-D272-422E-95ED-FCADF0DA5A63}|Barlangok\\Barlangok.csproj|c:\\users\\szakacs.mate\\source\\repos\\barlangos\\barlangok\\barlangok\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36BE8A4B-D272-422E-95ED-FCADF0DA5A63}|Barlangok\\Barlangok.csproj|solutionrelative:barlangok\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36BE8A4B-D272-422E-95ED-FCADF0DA5A63}|Barlangok\\Barlangok.csproj|c:\\users\\szakacs.mate\\source\\repos\\barlangos\\barlangok\\barlangok\\pages\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36BE8A4B-D272-422E-95ED-FCADF0DA5A63}|Barlangok\\Barlangok.csproj|solutionrelative:barlangok\\pages\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36BE8A4B-D272-422E-95ED-FCADF0DA5A63}|Barlangok\\Barlangok.csproj|c:\\users\\szakacs.mate\\source\\repos\\barlangos\\barlangok\\barlangok\\pages\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36BE8A4B-D272-422E-95ED-FCADF0DA5A63}|Barlangok\\Barlangok.csproj|solutionrelative:barlangok\\pages\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36BE8A4B-D272-422E-95ED-FCADF0DA5A63}|Barlangok\\Barlangok.csproj|c:\\users\\szakacs.mate\\source\\repos\\barlangos\\barlangok\\barlangok\\pages\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36BE8A4B-D272-422E-95ED-FCADF0DA5A63}|Barlangok\\Barlangok.csproj|solutionrelative:barlangok\\pages\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36BE8A4B-D272-422E-95ED-FCADF0DA5A63}|Barlangok\\Barlangok.csproj|c:\\users\\szakacs.mate\\source\\repos\\barlangos\\barlangok\\barlangok\\pages\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36BE8A4B-D272-422E-95ED-FCADF0DA5A63}|Barlangok\\Barlangok.csproj|solutionrelative:barlangok\\pages\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{36BE8A4B-D272-422E-95ED-FCADF0DA5A63}|Barlangok\\Barlangok.csproj|c:\\users\\szakacs.mate\\source\\repos\\barlangos\\barlangok\\barlangok\\pages\\shared\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{36BE8A4B-D272-422E-95ED-FCADF0DA5A63}|Barlangok\\Barlangok.csproj|solutionrelative:barlangok\\pages\\shared\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -58,11 +106,167 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\szakacs.mate\\source\\repos\\barlangos\\Barlangok\\Barlangok\\Pages\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Barlangok\\Pages\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\szakacs.mate\\source\\repos\\barlangos\\Barlangok\\Barlangok\\Pages\\Privacy.cshtml",
+              "RelativeToolTip": "Barlangok\\Pages\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-30T07:03:18.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\szakacs.mate\\source\\repos\\barlangos\\Barlangok\\Barlangok\\Pages\\Error.cshtml",
+              "RelativeDocumentMoniker": "Barlangok\\Pages\\Error.cshtml",
+              "ToolTip": "C:\\Users\\szakacs.mate\\source\\repos\\barlangos\\Barlangok\\Barlangok\\Pages\\Error.cshtml",
+              "RelativeToolTip": "Barlangok\\Pages\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-30T07:03:14.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\szakacs.mate\\source\\repos\\barlangos\\Barlangok\\Barlangok\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Barlangok\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\szakacs.mate\\source\\repos\\barlangos\\Barlangok\\Barlangok\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "Barlangok\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T07:03:04.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\szakacs.mate\\source\\repos\\barlangos\\Barlangok\\Barlangok\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Barlangok\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\szakacs.mate\\source\\repos\\barlangos\\Barlangok\\Barlangok\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Barlangok\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-30T07:03:04.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\szakacs.mate\\source\\repos\\barlangos\\Barlangok\\Barlangok\\Pages\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "Barlangok\\Pages\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\szakacs.mate\\source\\repos\\barlangos\\Barlangok\\Barlangok\\Pages\\Delete.cshtml.cs",
+              "RelativeToolTip": "Barlangok\\Pages\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T07:03:04.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\szakacs.mate\\source\\repos\\barlangos\\Barlangok\\Barlangok\\Pages\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Barlangok\\Pages\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\szakacs.mate\\source\\repos\\barlangos\\Barlangok\\Barlangok\\Pages\\Delete.cshtml",
+              "RelativeToolTip": "Barlangok\\Pages\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-30T07:03:04.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\szakacs.mate\\source\\repos\\barlangos\\Barlangok\\Barlangok\\Pages\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "Barlangok\\Pages\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\szakacs.mate\\source\\repos\\barlangos\\Barlangok\\Barlangok\\Pages\\Details.cshtml.cs",
+              "RelativeToolTip": "Barlangok\\Pages\\Details.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T07:03:04.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\szakacs.mate\\source\\repos\\barlangos\\Barlangok\\Barlangok\\Pages\\Details.cshtml",
+              "RelativeDocumentMoniker": "Barlangok\\Pages\\Details.cshtml",
+              "ToolTip": "C:\\Users\\szakacs.mate\\source\\repos\\barlangos\\Barlangok\\Barlangok\\Pages\\Details.cshtml",
+              "RelativeToolTip": "Barlangok\\Pages\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-30T07:03:04.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\szakacs.mate\\source\\repos\\barlangos\\Barlangok\\Barlangok\\Pages\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Barlangok\\Pages\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\szakacs.mate\\source\\repos\\barlangos\\Barlangok\\Barlangok\\Pages\\Edit.cshtml",
+              "RelativeToolTip": "Barlangok\\Pages\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-30T07:03:03.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\szakacs.mate\\source\\repos\\barlangos\\Barlangok\\Barlangok\\Pages\\Create.cshtml",
+              "RelativeDocumentMoniker": "Barlangok\\Pages\\Create.cshtml",
+              "ToolTip": "C:\\Users\\szakacs.mate\\source\\repos\\barlangos\\Barlangok\\Barlangok\\Pages\\Create.cshtml",
+              "RelativeToolTip": "Barlangok\\Pages\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-30T07:03:03.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\szakacs.mate\\source\\repos\\barlangos\\Barlangok\\Barlangok\\Pages\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "Barlangok\\Pages\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\szakacs.mate\\source\\repos\\barlangos\\Barlangok\\Barlangok\\Pages\\Edit.cshtml.cs",
+              "RelativeToolTip": "Barlangok\\Pages\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T07:03:03.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\szakacs.mate\\source\\repos\\barlangos\\Barlangok\\Barlangok\\Pages\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "Barlangok\\Pages\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\szakacs.mate\\source\\repos\\barlangos\\Barlangok\\Barlangok\\Pages\\Create.cshtml.cs",
+              "RelativeToolTip": "Barlangok\\Pages\\Create.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T07:03:03.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "Index.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\szakacs.mate\\source\\repos\\barlangos\\Barlangok\\Barlangok\\Pages\\Shared\\Index.cshtml.cs",
               "RelativeDocumentMoniker": "Barlangok\\Pages\\Shared\\Index.cshtml.cs",
@@ -75,7 +279,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 15,
               "Title": "BarlangDBContext.cs",
               "DocumentMoniker": "C:\\Users\\szakacs.mate\\source\\repos\\barlangos\\Barlangok\\Barlangok\\Data\\BarlangDBContext.cs",
               "RelativeDocumentMoniker": "Barlangok\\Data\\BarlangDBContext.cs",
@@ -83,12 +287,11 @@
               "RelativeToolTip": "Barlangok\\Data\\BarlangDBContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-30T06:49:39.384Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-30T06:49:39.384Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 13,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\szakacs.mate\\source\\repos\\barlangos\\Barlangok\\Barlangok\\Pages\\Shared\\Index.cshtml",
               "RelativeDocumentMoniker": "Barlangok\\Pages\\Shared\\Index.cshtml",
@@ -96,12 +299,11 @@
               "RelativeToolTip": "Barlangok\\Pages\\Shared\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-30T06:42:45.924Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-30T06:42:45.924Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 16,
               "Title": "Delete.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\szakacs.mate\\source\\repos\\barlangos\\Barlangok\\Barlangok\\Pages\\Shared\\Delete.cshtml.cs",
               "RelativeDocumentMoniker": "Barlangok\\Pages\\Shared\\Delete.cshtml.cs",
@@ -109,12 +311,11 @@
               "RelativeToolTip": "Barlangok\\Pages\\Shared\\Delete.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-30T06:42:45.728Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-30T06:42:45.728Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 17,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\szakacs.mate\\source\\repos\\barlangos\\Barlangok\\Barlangok\\Pages\\Shared\\Delete.cshtml",
               "RelativeDocumentMoniker": "Barlangok\\Pages\\Shared\\Delete.cshtml",
@@ -122,12 +323,11 @@
               "RelativeToolTip": "Barlangok\\Pages\\Shared\\Delete.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-30T06:42:45.639Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-30T06:42:45.639Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 14,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\szakacs.mate\\source\\repos\\barlangos\\Barlangok\\Barlangok\\Pages\\Shared\\Edit.cshtml",
               "RelativeDocumentMoniker": "Barlangok\\Pages\\Shared\\Edit.cshtml",
@@ -135,12 +335,11 @@
               "RelativeToolTip": "Barlangok\\Pages\\Shared\\Edit.cshtml",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-30T06:42:45.214Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-30T06:42:45.214Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 18,
               "Title": "Details.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\szakacs.mate\\source\\repos\\barlangos\\Barlangok\\Barlangok\\Pages\\Shared\\Details.cshtml.cs",
               "RelativeDocumentMoniker": "Barlangok\\Pages\\Shared\\Details.cshtml.cs",
@@ -148,12 +347,11 @@
               "RelativeToolTip": "Barlangok\\Pages\\Shared\\Details.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-30T06:42:45.473Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-30T06:42:45.473Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 19,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\szakacs.mate\\source\\repos\\barlangos\\Barlangok\\Barlangok\\Pages\\Shared\\Details.cshtml",
               "RelativeDocumentMoniker": "Barlangok\\Pages\\Shared\\Details.cshtml",
@@ -161,12 +359,11 @@
               "RelativeToolTip": "Barlangok\\Pages\\Shared\\Details.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-30T06:42:45.391Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-30T06:42:45.391Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 20,
               "Title": "Edit.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\szakacs.mate\\source\\repos\\barlangos\\Barlangok\\Barlangok\\Pages\\Shared\\Edit.cshtml.cs",
               "RelativeDocumentMoniker": "Barlangok\\Pages\\Shared\\Edit.cshtml.cs",
@@ -174,12 +371,11 @@
               "RelativeToolTip": "Barlangok\\Pages\\Shared\\Edit.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-30T06:42:45.297Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-30T06:42:45.297Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 21,
               "Title": "Create.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\szakacs.mate\\source\\repos\\barlangos\\Barlangok\\Barlangok\\Pages\\Shared\\Create.cshtml.cs",
               "RelativeDocumentMoniker": "Barlangok\\Pages\\Shared\\Create.cshtml.cs",
@@ -187,12 +383,11 @@
               "RelativeToolTip": "Barlangok\\Pages\\Shared\\Create.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-30T06:42:45.078Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-30T06:42:45.078Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 22,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\szakacs.mate\\source\\repos\\barlangos\\Barlangok\\Barlangok\\Pages\\Shared\\Create.cshtml",
               "RelativeDocumentMoniker": "Barlangok\\Pages\\Shared\\Create.cshtml",
@@ -200,12 +395,11 @@
               "RelativeToolTip": "Barlangok\\Pages\\Shared\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-30T06:42:44.71Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-30T06:42:44.71Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 23,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\szakacs.mate\\source\\repos\\barlangos\\Barlangok\\Barlangok\\Program.cs",
               "RelativeDocumentMoniker": "Barlangok\\Program.cs",
@@ -213,8 +407,7 @@
               "RelativeToolTip": "Barlangok\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-30T06:36:52.142Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-30T06:36:52.142Z"
             }
           ]
         }
